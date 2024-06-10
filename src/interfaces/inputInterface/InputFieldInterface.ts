@@ -5,7 +5,7 @@ export interface FormValues {
 }
 
 export interface Row {
-  columnHeading: string;
+  input: string;
   desc: string;
   status: boolean;
 }

@@ -1,4 +1,4 @@
-import InputField from "./components/input/InputField";
+import InputField from "./components/todo-input/TodoInputField";
 
 function App() {
   return (

@@ -27,3 +27,14 @@
 .lbl{
     margin-left: 10px;
 }
+
+.req::after{
+    margin-left: 3px;
+    content: '*';
+    color: red;
+    font-size: 20px;
+}
+
+.req-mesg{
+    color: red;
+}

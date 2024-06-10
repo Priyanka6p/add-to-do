@@ -3,14 +3,18 @@ export const Constants = {
   add_to_do: "Add to Do",
   add_items: "Add items in to do list",
   des: "Description",
-  target: "Target Name",
+  req: 'This field is required',
   table: [
     {
       action: "Action",
       comp: 'Is completed?',
-      columnHeading: "Target Name",
+      input: "Target Name",
       desc: "Description",
       sr: "Serial No.",
     },
   ],
+  target: "Target Name",
+  taskDone: "Your task is done",
+  taskNotdone: "Your task is not done yet",
+  title: "List of add to do's",
 };
